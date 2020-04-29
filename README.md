@@ -1,16 +1,18 @@
-To Run
-================
-Open Git bash
+First clone project 
+
+git clone https://github.com/priyanshuin1/BlackJackcode.git
+ Then Follow below process
+ 
 - Goto /code folder
 - npm install
-- set mongo db
-- start mongodb
-- modify your mongodb configration in /code/lib/dal.js
-- Edit rundb.bat
+- If you want modify your mongodb configration in /code/lib/dal.js
 - setup your database path
-- run rundb.bat file
 - Goto code folder
 - execute node app.js
 
-Enjoy the game!!!
-========
+If you want to any clearification please contact me priyanshuin1@gmail.com
+
+Thanks
+Priyanshu
+
+
